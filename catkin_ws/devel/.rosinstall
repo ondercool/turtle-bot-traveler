@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosgeek/turtle-simulations/catkin_ws/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/rosgeek/turtle-simulations/catkin_ws/install
+
+Name: turtle-cleaner
+Description: Description of turtle-cleaner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
